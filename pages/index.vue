@@ -17,8 +17,6 @@
     <NuxtLink to="/courses/123/about">課程列表</NuxtLink>
     <NuxtLink to="/user-mike">使用者頁面</NuxtLink>
   </div>
-  <hr>
-  <button @click="gotoAndPage('/about')">切換至 about 頁面</button>
 </template>
 
-<style scoped></style>
+<style></style>
